@@ -1,0 +1,34 @@
+{
+  "name": "replace-image-color",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-dev": "nodemon --inspect app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rokmesojedec/replace-image-color.git"
+  },
+  "keywords": [
+    "image",
+    "replace",
+    "color",
+    "server",
+    "node",
+    "js",
+    "javascript"
+  ],
+  "author": "Rok Mesojedec",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rokmesojedec/replace-image-color/issues"
+  },
+  "homepage": "https://github.com/rokmesojedec/replace-image-color#readme",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "chalk": "^3.0.0",
+    "image-size": "^0.8.3"
+  }
+}
